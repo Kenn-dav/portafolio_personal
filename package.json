@@ -1,0 +1,16 @@
+{
+  "name": "portafolio-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^8.0.0",
+    "vite": "^7.3.1",
+    "vite-plugin-handlebars": "^2.0.0"
+  }
+}
